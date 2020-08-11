@@ -28,6 +28,33 @@ public class AddressBook {
 		this.phone = phone;
 	}
 
+		public void setFirstName(String first_Name){
+		this.first_Name = first_Name ;
+	}
+
+	public void setLastName(String last_Name){
+		this.last_Name = last_Name ;
+	}
+
+	public void setAddress(String address){
+		this.address = address;
+	}
+
+	public void setCity(String city){
+		this.city=city;
+	}
+
+	public void setState(String state){
+		this.state = state;
+	}
+
+	public void setZip(String zip){
+		this.zip = zip;
+	}
+
+	public void setPhone(String phone){
+		this.phone = phone;
+	}
 
 
 
