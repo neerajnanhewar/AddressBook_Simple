@@ -81,7 +81,7 @@ public class AddressBook {
 		return zip;
 	}
 
-	public String setPhone(){
+	public String getPhone(){
 		return phone;
 	}
 
