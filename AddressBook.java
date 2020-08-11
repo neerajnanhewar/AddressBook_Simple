@@ -57,5 +57,34 @@ public class AddressBook {
 	}
 
 
+	public String getFirstName(){
+		 return first_Name;
+	}
+
+	public String getLastName(){
+		return last_Name;
+	}
+
+	public String getAddress(){
+		return address;
+	}
+
+	public String getCity(){
+		return city;
+	}
+
+	public String getState(){
+		return state;
+	}
+
+	public String getZip(){
+		return zip;
+	}
+
+	public String setPhone(){
+		return phone;
+	}
+
+
 
 }
